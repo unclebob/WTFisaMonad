@@ -1,0 +1,7 @@
+This is the "WTF is a Monad" talk.
+Robert C. Martin.
+
+The slides are in PDF form, and are skeletal at best.
+The real information is in the clojure code.  Walk through the slides, and look at the code when the appropriate blue slide appears.
+
+
